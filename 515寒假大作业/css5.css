@@ -1,0 +1,120 @@
+#page5 {
+    display: none;
+}
+
+#div5_1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+    z-index: 1;
+   
+}
+
+#img5_1 {
+    position: absolute;
+    top: -80px;
+    width: 100%;
+    height: 600px;
+}
+
+#div5_2 {
+    position: absolute;
+    top: 400px;
+    left: 0;
+    width: 100%;
+    height: 385px;
+    overflow: hidden;
+    z-index: 1;
+
+}
+
+#img5_2 {
+    width: 100%;
+    height: 385px;
+    z-index: -1;
+}
+
+#img5_water1 {
+    position: absolute;
+    top: -200px;
+    left: 150px;
+    height: 500px;
+    width: 500px;
+    opacity: 0.8;
+    
+   
+}
+
+#img5_1_1 {
+    z-index: 2;
+    position: absolute;
+    top: 200px;
+    left: 1200px;
+}
+
+#img5_water2 {
+    position: absolute;
+    top: -50px;
+    left: 1100px;
+    height: 400px;
+    width: 400px;
+    opacity: 0.8;
+   
+
+}
+#img5_2_1 {
+    z-index: 2;
+    position: absolute;
+    top: 550px;
+    left: 200px;
+}
+#div_water1{
+    
+    z-index: 11;
+    position: absolute;
+    left: 350px;
+    top:100px;
+    text-align: center;
+}
+#waterP{
+    color: white;
+    font-size: 1.5rem;
+    font-family: inherit;
+
+}
+#btn_top{
+    width: 80px;
+    height: 25px;
+    border-radius: 50px;
+    border: solid 2px white;
+    background-color: transparent;
+    color: white;
+}
+#div_water2{
+    z-index: 11;
+    position: absolute; 
+    left: 1250px;
+    top:150px;
+    text-align: center;
+}
+#btn_down{
+    width: 80px;
+    height: 25px;
+    border-radius: 50px;
+    border: solid 2px white;
+    background-color: transparent;
+    color: white;
+}
+
+
+
+#div5_bottom {
+    position: absolute;
+    top: 785px;
+    left: 8px;
+    width: 100%;
+    height: 300px;
+}

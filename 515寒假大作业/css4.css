@@ -1,0 +1,51 @@
+#page4{
+    display: none;
+}
+#ul_sfq{
+    list-style: none;
+    width: 100%;
+}
+
+#box {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width:100%;
+    height:100%;
+
+    overflow: hidden;
+}
+
+#li_sfq {
+    width: 350px;
+    height: 400px;
+    float: left;
+}
+.box img{
+    width: 900px;
+    position: absolute;
+    top: 0;
+
+}
+#water4_1{
+    z-index: 11;
+    position: relative;
+    left: 0px;
+    top: 350px;
+    height: 450px;
+    width: 150px;
+    float: left;
+}
+#water4_4{
+    height: 450px;
+    width: 130px;
+    position: absolute;
+    top: 350px;
+    right: 0;
+}
+#div4_bottom{
+    position: relative;
+    top: 782px;
+    width: 100%;
+    height: 300px;
+}

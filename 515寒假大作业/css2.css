@@ -1,0 +1,183 @@
+#page2{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width:100%;
+    display: none;
+    margin: 0 auto;
+ 
+}
+#bcg{
+    width: 1580px;
+    height: 100%;
+}
+#page2_h{
+    color: white;
+    position: absolute;
+    top: 50px;
+    left: 180px;
+    width: 550px;
+    font-weight: 400;
+    font-size: 1.4rem;
+    text-align: left;
+    line-height: 40px;
+    
+
+}
+
+#div_in1{
+      position: absolute;
+      left: 90px;
+      top: 800px;
+      width: 372px;
+      height: 80%;
+      
+}
+#div_in2{
+    position: absolute;
+    left: 462px;
+    top: 850px;
+    width: 372px;
+    height: 90%;
+    
+}
+#div_in3{
+    position: absolute;
+    left: 834px;
+    top: 900px;
+    width: 372px;
+    height: 80%;
+}
+#div_in4{
+    position: absolute;
+    left: 1206px;
+    top: 950px;
+    width: 372px;
+    height: 90%;
+}
+
+
+#div_in1_1{
+    position: absolute;
+    top: 330px;
+    left: 0px;
+    width: 400px;
+    height: 300px;
+    background-color: #f39e38;
+}
+#button_in1{
+    position: absolute;
+    top: 230px;
+    left: 122px;
+    color: white;
+    background-color:#f39e38;
+    width: 120px;
+    height: 40px;
+    border: solid 2px white;
+    font-size: 1.0rem;
+    border-radius: 50px;
+    cursor: pointer;
+}
+#div_in1_2{
+    position: absolute;
+    top: 330px;
+    left: 0px;
+    width: 372px;
+    height: 350px;
+    background-color: #eb6b64;
+}
+#button_in2{
+    position: absolute;
+    top: 230px;
+    left: 122px;
+    color: white;
+    background-color:#eb6b64;
+    width: 120px;
+    height: 40px;
+    border: solid 2px white;
+    font-size: 1.0rem;
+    border-radius: 50px;
+    cursor: pointer;
+}
+#div_in1_3{
+    position: absolute;
+    top: 330px;
+    left: 0px;
+    width: 372px;
+    height: 300px;
+    background-color: #71bde4;
+}
+#button_in3{
+    position: absolute;
+    top: 230px;
+    left: 122px;
+    color: white;
+    background-color:#71bde4;
+    width: 120px;
+    height: 40px;
+    border: solid 2px white;
+    font-size: 1.0rem;
+    border-radius: 50px;
+    cursor: pointer;
+}
+#div_in1_4{
+    position: absolute;
+    top: 330px;
+    left: 0px;
+    width: 372px;
+    height: 350px;
+    background-color: #81c043;
+}
+#button_in4{
+    position: absolute;
+    top: 230px;
+    left: 120px;
+    color: white;
+    background-color:#81c043;
+    width: 122px;
+    height: 40px;
+    border: solid 2px white;
+    font-size: 1.0rem;
+    border-radius: 50px;
+    cursor: pointer;
+}
+#img2_1{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 372px;
+    z-index: 1;
+}
+#img2_2{
+    position: absolute;
+    top: 0px;
+    left: 0px; 
+    width: 372px;
+    z-index: 1;
+}
+
+#img2_3{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 372px;
+    z-index: 1;
+}
+
+#img2_4{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 372px;
+    z-index: 1;
+}
+#div2_bottom{
+    z-index: 11;
+    position: relative;
+    top: -200px;
+    height: 300px;
+}
+
+
+
